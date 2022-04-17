@@ -1,0 +1,15 @@
+# Packages
+node_modules/
+
+# Log files
+logs/
+*.log
+
+# Miscellaneous
+.tmp/
+.idea/
+.DS_Store
+
+# Environments
+.env
+ngrok.yaml
