@@ -1,6 +1,6 @@
 const client = require('../models/line')
 const { services } = require('../models/services')
-const { basic, pro, business } = require('../models/packages')
+const { basic, pro, business } = require('../models/products')
 
 async function hook(req, res) {
   if (!Array.isArray(req.body.events)) return res.status(500).end()
