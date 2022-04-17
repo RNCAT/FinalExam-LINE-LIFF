@@ -6,7 +6,7 @@ const config = {
     channelAccessToken: process.env.CHANNEL_ACCESS_TOKEN,
     channelSecret: process.env.CHANNEL_SECRET,
   },
-  liffServiceId: process.env.LIFF_SERVICES_ID,
+  liffProductsId: process.env.LIFF_PRODUCTS_ID,
   liffContactId: process.env.LIFF_CONTACT_ID,
 }
 
