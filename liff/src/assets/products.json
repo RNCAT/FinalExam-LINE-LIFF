@@ -1,0 +1,44 @@
+{
+  "basic": {
+    "name": "basic",
+    "header": "Personal meetings",
+    "price": "Free",
+    "priceDesc": "",
+    "descriptions": [
+      { "id": 1, "text": "Host up to 100 participants" },
+      { "id": 2, "text": "Unlimited group meetings for up to 40 minutes" },
+      { "id": 3, "text": "Unlimited one-to-one meetings with a 30 hour time limit per meeting." },
+      { "id": 4, "text": "Private & Group Chat" }
+    ]
+  },
+
+  "pro": {
+    "name": "pro",
+    "header": "Great for small teams",
+    "price": "$149.90",
+    "priceDesc": "1 license/1 year",
+    "descriptions": [
+      { "id": 1, "text": "Host up to 100 participants" },
+      { "id": 2, "text": "Increase participants up to 1,000 with Large Meetings add-on" },
+      { "id": 3, "text": "Group meetings for up to 30 hours" },
+      { "id": 4, "text": "Social media streaming" },
+      { "id": 5, "text": "1 GB cloud recording (per license)" }
+    ]
+  },
+
+  "business": {
+    "name": "business",
+    "header": "Small businesses",
+    "price": "$199.90",
+    "priceDesc": "1 license/1 year",
+    "descriptions": [
+      { "id": 1, "text": "Host up to 300 participants" },
+      { "id": 2, "text": "Increase participants up to 1,000 with Large Meetings add-on" },
+      { "id": 3, "text": "Single sign-on" },
+      { "id": 4, "text": "Recording transcripts" },
+      { "id": 5, "text": "Managed domains" },
+      { "id": 6, "text": "Company branding" },
+      { "id": 7, "text": "Up to 99 licenses" }
+    ]
+  }
+}
