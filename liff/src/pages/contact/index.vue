@@ -18,6 +18,9 @@
     <div class="d-grid gap-2" v-if="isProduct">
       <b-button block variant="outline-primary" to="/products">BACK TO PRODUCTS</b-button>
     </div>
+    <div class="d-grid gap-2" v-else>
+      <b-button block variant="danger" @click="closePage">Close</b-button>
+    </div>
   </div>
 </template>
 
@@ -30,6 +33,12 @@ export default {
       liffID: null,
       isProduct: false,
     }
+  },
+
+  methods: {
+    closePage() {
+      liff.closeWindow()
+    },
   },
 
   async mounted() {
