@@ -77,7 +77,7 @@ module.exports.services = {
                   action: {
                     type: 'uri',
                     label: 'Detail',
-                    uri: 'http://linecorp.com/',
+                    uri: 'https://liff.line.me/1657062604-3o9o2DrD?tab=BASIC',
                   },
                   style: 'primary',
                   color: '#4eb3ed',
@@ -170,7 +170,7 @@ module.exports.services = {
                   action: {
                     type: 'uri',
                     label: 'Detail',
-                    uri: 'http://linecorp.com/',
+                    uri: 'https://liff.line.me/1657062604-3o9o2DrD?tab=PRO',
                   },
                   style: 'primary',
                   color: '#4eb3ed',
@@ -263,7 +263,7 @@ module.exports.services = {
                   action: {
                     type: 'uri',
                     label: 'Detail',
-                    uri: 'http://linecorp.com/',
+                    uri: 'https://liff.line.me/1657062604-3o9o2DrD?tab=BUSINESS',
                   },
                   style: 'primary',
                   color: '#4eb3ed',
